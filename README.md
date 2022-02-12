@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Armands2142
-- 🌱 I’m newcomer to odins project
+- 🌱 I’m newcomer to the odins project
 - 📫 How to reach me armands2142@gmail.com
 
 <!---
